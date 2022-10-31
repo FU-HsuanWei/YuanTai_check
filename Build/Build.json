@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "2022",
-"productVersion": "0.1",
+"companyName": "Lee-Ming",
+"productName": "Construction_Inspection_Platform_V2",
+"productVersion": "0.2",
 "dataUrl": "Build.data.unityweb",
 "wasmCodeUrl": "Build.wasm.code.unityweb",
 "wasmFrameworkUrl": "Build.wasm.framework.unityweb",
